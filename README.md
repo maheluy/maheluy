@@ -77,7 +77,7 @@
 | [**One-mans-journey**](https://github.com/maheluy/One-mans-journey) | My very first Python project: a small game made with pygame (2023). | Python · pygame |
 
 ---
-
+<!--
 ## 📊 GitHub stats
 
 <p align="center">
@@ -86,7 +86,7 @@
 </p>
 
 ---
-
+-->
 <p align="center">
   <i>Thanks for stopping by! Feel free to reach out on <a href="https://www.linkedin.com/in/marcelo-albuquerque-heluy-56b594333">LinkedIn</a>.</i>
 </p>
