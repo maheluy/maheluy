@@ -16,9 +16,10 @@
 ## 🧭 About me
 
 - 🎓 Studying Computer Science at the Federal University of Maranhão (UFMA)
-- 🧠 Into deep learning, computer vision and LLM agents, from training small CNNs from scratch to agents running on local models
-- 🛠️ Also enjoy building full-stack and distributed systems: REST APIs, real-time messaging and web front-ends
-- 🔬 I like to measure things properly: multiple seeds, clear baselines and honest limitations in every write-up
+- ⚙️ Into Optimization, Operational Research and finding efficient and optimum solutions for everyday problems
+- 🧠 Also into deep learning, computer vision and LLM agents, from training small CNNs from scratch to agents running on local models
+- 🛠️ Also enjoy building full-stack and distributed systems: REST APIs, real-time messaging, web front-ends and reliable software solutions
+- 🔬 I like to measure things properly: clear baselines and honest limitations in every write-up
 
 ---
 
